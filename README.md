@@ -1,4 +1,5 @@
 # ipdata
+![ipdata](https://github.com/Japheth-Joepari/ipdata/assets/51114866/9d4cea1c-f026-4ef8-8ed3-09e4460c47c2)
 
 
 The IP Tracker App is a web application that allows users to track the geographical location of an IP address. It uses the IPify API and the Leaflet library to retrieve and display the location on an interactive map.
@@ -19,11 +20,11 @@ The IP Tracker App is a web application that allows users to track the geographi
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/ip-tracker-app.git`
-2. Navigate to the project directory: `cd ip-tracker-app`
+1. Clone the repository: `git clone https://github.com/japheth-joepari/ipdata.git`
+2. Navigate to the project directory: `cd ipdata`
 3. Install dependencies: `npm install`
-4. Start the development server: `npm start`
-5. Open your browser and visit: `http://localhost:3000`
+4. Start the development server: `npm run dev`
+5. Open your browser and visit: `http://localhost:30005173`
 
 ## Configuration
 
